@@ -1,0 +1,11 @@
+schema_version: 1
+name: FinanceChatbot
+version: "0.1"
+description: AI-powered finance chatbot
+authors:
+  - name: kcharanpreet530
+    email: kcharanpreet530@gmail.com
+files:
+  - path: scripts/main.py
+    type: code
+framework: custom
